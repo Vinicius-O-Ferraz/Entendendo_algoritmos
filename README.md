@@ -2,8 +2,9 @@
 Este repositório consta as notas de leitura e estudo do livro Entendendo algoritmos de Aditya Y. Bhargava.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aaee45f5-74eb-43d4-896a-d783c9151ca1" alt="image" />
+  <img src="https://github.com/user-attachments/assets/5b817ade-3634-4ca2-b1bd-26e6f7ba7d35" alt="image" />
 </div>
+
 
 
 Author(s): Aditya Y. Bhargava
