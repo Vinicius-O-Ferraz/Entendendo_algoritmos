@@ -10,19 +10,19 @@ grafo['peggy'] = []
 grafo['tom'] = []
 grafo['jones'] = []
 
-def p_vende_manga(p):
-    if p == 'anuj':
+def p_vende_manga(p, target = 'anuj'):
+    if p == target:
         return True
     return False
 
-def mango_seach(p):
+def mango_seach(p, target = 'anuj'):
     s_queue = deque()
     s_queue += grafo[p]
     verified = []
     while s_queue:
         p = s_queue.popleft()
         if not p in verified:
-            if p_vende_manga(p):
+            if p_vende_manga(p,target):
                 print(f"{p} vende manga")
                 return True
             else:
@@ -34,3 +34,4 @@ def mango_seach(p):
 mango_seach('você')
 mango_seach('anuj')
 mango_seach('tom')
+mango_seach('bob', 'peggy')
