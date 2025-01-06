@@ -1,0 +1,1 @@
+Este capítulo infelzimente não tem aplicações em código, portanto, devo deixar uma recomendação de repositório que demonstra o funcionamento do k-means:https://github.com/RobertGarciadSilva/python-notebooks/blob/master/testes_gerais/exemploK_means/trabalho_exemplo_KMeans.ipynb
