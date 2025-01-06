@@ -15,5 +15,5 @@ def vote_verification(name):
 # Testando a função com diferentes nomes.
 vote_verification('paulinho')  # Output: Vote now mate!
 vote_verification('amélia')    # Output: Vote now mate!
-vote_verification('kid bengala')  # Output: Vote now mate!
+vote_verification('lionel')  # Output: Vote now mate!
 vote_verification('paulinho')  # Output: You cannot vote now, please leave immediately
